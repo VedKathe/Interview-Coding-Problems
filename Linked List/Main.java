@@ -11,7 +11,7 @@ class P{
 public class Main {
 
     public static void main(String arg[]){
-        System.out.println(new P().pt(5));
+        System.out.println(new P().pt());
         // Singly list = new Singly();
         // list.create(0);
         // list.create(1);
